@@ -17,5 +17,7 @@ Se prueba con otra red neuronal convolucional VGG16, de igual manera se congela 
 
 Finalmente, se intenta aplicar la técnica de aumento de datos, que consiste en aplicar diversas transformaciones sobre las entradas originales, obteniendo muestras ligeramente diferentes pero en esencia iguales, que permite a la red desenvolverse mejor en la fase de inferencia.
 
-
+Referencias:
+https://www.youtube.com/watch?v=9Dur_oUMGG8
+https://www.youtube.com/watch?v=DbwKbsCWPSg
 
